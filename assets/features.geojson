@@ -1,0 +1,119 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 1,
+        "name": "shinakanoBldg_1F",
+        "base_height": 0,
+        "height": 6,
+        "color": "red"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              139.667626,
+              35.697619
+            ],
+            [
+              139.667656,
+              35.6979
+            ],
+            [
+              139.667873,
+              35.697888
+            ],
+            [
+              139.667843,
+              35.697605
+            ],
+            [
+              139.667626,
+              35.697619
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "50d271cb936b9ab3300064fbe2f00c1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 2,
+        "name": "shinakanoBldg_2F",
+        "base_height": 6,
+        "height": 10,
+        "color": "blue"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              139.667626,
+              35.697619
+            ],
+            [
+              139.667656,
+              35.6979
+            ],
+            [
+              139.667873,
+              35.697888
+            ],
+            [
+              139.667843,
+              35.697605
+            ],
+            [
+              139.667626,
+              35.697619
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "50d271cb936b9ab3300064fbe2f00c1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 3,
+        "name": "shinakanoBldg_3F",
+        "base_height": 10,
+        "height": 40,
+        "color": "green"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              139.667626,
+              35.697619
+            ],
+            [
+              139.667656,
+              35.6979
+            ],
+            [
+              139.667873,
+              35.697888
+            ],
+            [
+              139.667843,
+              35.697605
+            ],
+            [
+              139.667626,
+              35.697619
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "50d271cb936b9ab3300064fbe2f00c1e"
+    }
+  ],
+  "type": "FeatureCollection"
+}
